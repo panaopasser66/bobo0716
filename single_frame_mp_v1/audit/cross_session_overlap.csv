@@ -1,0 +1,11 @@
+﻿session_a,session_b,shared_stage_locations,sampled_target00_correlations,median_sampled_correlation,mapping_assessment
+auto_capture_20260701_165437,auto_capture_20260702_092708,0,,,no shared stage coordinate
+auto_capture_20260701_165437,auto_capture_20260702_111834,30,0.864433;0.997847;0.885218;0.222234;0.540261,0.8644333481788635,stage-coordinate overlap; image confirmation required
+auto_capture_20260701_165437,auto_capture_20260702_133311,105,0.997618;0.995806;0.996614;0.997232;0.995349,0.9966140389442444,stage-coordinate overlap; image confirmation required
+auto_capture_20260701_165437,auto_capture_20260702_173319,30,0.862029;0.995037;0.926836;0.219861;0.553716,0.8620288372039795,stage-coordinate overlap; image confirmation required
+auto_capture_20260702_092708,auto_capture_20260702_111834,14,0.999511;0.998965;0.406545;0.991906;0.998965,0.9989646077156067,stage-coordinate overlap; image confirmation required
+auto_capture_20260702_092708,auto_capture_20260702_133311,36,0.997252;0.998097;0.997990;0.998339;0.998531,0.9980968832969666,stage-coordinate overlap; image confirmation required
+auto_capture_20260702_092708,auto_capture_20260702_173319,14,0.998410;0.997542;0.405171;0.989744;0.997485,0.9974848031997681,stage-coordinate overlap; image confirmation required
+auto_capture_20260702_111834,auto_capture_20260702_133311,41,0.995412;0.999123;0.810113;0.291113;0.541075,0.8101131916046143,stage-coordinate overlap; image confirmation required
+auto_capture_20260702_111834,auto_capture_20260702_173319,44,0.998936;0.998581;0.970950;0.998590;0.979615,0.9985811114311218,stage-coordinate overlap; image confirmation required
+auto_capture_20260702_133311,auto_capture_20260702_173319,41,0.995714;0.999218;0.814887;0.291450;0.557046,0.814887285232544,stage-coordinate overlap; image confirmation required
